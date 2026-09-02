@@ -72,5 +72,7 @@ git-github-essentials-wiki/
 This project is released under the MIT License.
 
 ## ✍️ Author
+Magima
+
 
 Created by [Your Name] as a course project for GitHub Essentials for Non-Programmers.
