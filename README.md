@@ -2,10 +2,6 @@
 
 A beginner-friendly documentation project that explains Git and GitHub concepts in plain language for non-programmers. This wiki was built as a course project for "GitHub Essentials for Non-Programmers."
 
-🔗 Live site: https://<your-username>.github.io/git-github-essentials-wiki/
-
----
-
 ## 📖 Project Description
 
 Many people who are new to tech find Git and GitHub confusing — full of unfamiliar terms like "commit," "branch," "push," and "pull request." This wiki breaks those concepts down into short, clear, jargon-free pages that anyone can follow, regardless of coding background.
