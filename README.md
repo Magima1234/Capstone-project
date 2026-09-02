@@ -71,4 +71,3 @@ This project is released under the MIT License.
 Magima
 
 
-Created by [Your Name] as a course project for GitHub Essentials for Non-Programmers.
