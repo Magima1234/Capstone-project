@@ -1,0 +1,18 @@
+git-github-essentials-wiki/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+└── docs/
+    ├── index.md
+    ├── pages/
+    │   ├── 01-introduction.md
+    │   ├── 02-installation.md
+    │   ├── 03-basic-commands.md
+    │   ├── 04-branching.md
+    │   ├── 05-collaboration.md
+    │   ├── 06-github-pages-guide.md
+    │   ├── 07-faq.md
+    │   └── 08-glossary.md
+    └── assets/images/
